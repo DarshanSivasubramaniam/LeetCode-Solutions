@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Two Pointers
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## String
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
