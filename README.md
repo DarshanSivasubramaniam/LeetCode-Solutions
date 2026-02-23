@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1528-shuffle-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1528-shuffle-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
