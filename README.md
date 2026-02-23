@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
