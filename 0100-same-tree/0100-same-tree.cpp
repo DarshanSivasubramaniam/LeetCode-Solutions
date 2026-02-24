@@ -21,15 +21,11 @@ public:
             return;
          }
 
-
         if(p->val!=q->val)
         result=false;
 
-        
-
         func(p->left,q->left,result);
         func(p->right,q->right,result);
-
 
      }
 
