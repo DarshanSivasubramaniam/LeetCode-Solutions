@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1664-ways-to-make-a-fair-array](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
