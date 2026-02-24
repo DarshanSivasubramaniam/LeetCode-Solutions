@@ -12,8 +12,8 @@ public:
         int a=i;
         int b=i+1;
 
-        int aval=s[i];
-        int bval=s[i+1];
+        char aval=s[i];
+        char bval=s[i+1];
 
          while(a>=0 && b<n && s[a]==aval && s[b]==bval)
          {
