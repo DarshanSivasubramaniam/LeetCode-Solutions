@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1528-shuffle-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
