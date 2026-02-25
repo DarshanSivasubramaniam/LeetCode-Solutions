@@ -1,7 +1,9 @@
 class Solution {
 public:
     int passThePillow(int n, int time) {
-      
+        
+        if(n-1>=time)
+        return time+1;
 
         int temp=1;
         bool car=true;
