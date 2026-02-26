@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1668-maximum-repeating-substring](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2582-pass-the-pillow](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 ## Number Theory
 |  |
