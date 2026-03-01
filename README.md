@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1668-maximum-repeating-substring](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
