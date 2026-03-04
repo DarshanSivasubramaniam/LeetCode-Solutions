@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1528-shuffle-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1664-ways-to-make-a-fair-array](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
 ## Math
 |  |
