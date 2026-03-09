@@ -1,20 +1,21 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int result = 0;
+        
+        int result=0;
 
-        for(int i = 0; i < 32; i++)
+        for(int i=0;i<32;i++)
         {
-            int sum = 0;
+            int count=0;
 
-            for(int num : nums)
+            for(int val:nums)
             {
-                if((num >> i) & 1)
-                    sum++;
+                if((1<<i)&val)
+                count++;
             }
 
-            if(sum % 3)
-                result |= (1 << i);
+            if(count%3)
+            result=(1<<i) | result;
         }
 
         return result;
