@@ -1,17 +1,22 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> mp;
+        int result = 0;
 
-        for(int x : nums)
-            mp[x]++;
-
-        for(auto it : mp)
+        for(int i = 0; i < 32; i++)
         {
-            if(it.second == 1)
-                return it.first;
+            int sum = 0;
+
+            for(int num : nums)
+            {
+                if((num >> i) & 1)
+                    sum++;
+            }
+
+            if(sum % 3)
+                result |= (1 << i);
         }
 
-        return -1;
+        return result;
     }
 };
