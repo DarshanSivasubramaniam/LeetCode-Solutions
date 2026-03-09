@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1664-ways-to-make-a-fair-array](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Simulation
 |  |
 | ------- |
