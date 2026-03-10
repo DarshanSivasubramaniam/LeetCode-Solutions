@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0392-is-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
