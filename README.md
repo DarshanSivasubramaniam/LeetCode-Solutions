@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -176,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
