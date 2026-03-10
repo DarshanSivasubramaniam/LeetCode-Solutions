@@ -12,7 +12,7 @@ public:
         
         for(int i=0;i<result.size();i++)
         {
-            if(result[i]>1)
+            if(result[i]==2)
             final1=final1^i;
         }
 
