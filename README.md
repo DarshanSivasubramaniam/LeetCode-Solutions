@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0542-01-matrix](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
@@ -151,13 +153,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
