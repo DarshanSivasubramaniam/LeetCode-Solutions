@@ -9,12 +9,12 @@ public:
             return;
          }
 
-         if(a<n)
+         if(a<=n)
          {
             func(a+1,b,n,str+"(",result);
          }
 
-         if(b<a)
+         if(b<a-1)
          {
              func(a,b+1,n,str+")",result);
          }
@@ -23,7 +23,7 @@ public:
     vector<string> generateParenthesis(int n) {
         vector<string>result;
 
-        func(0,0,n,"",result);
+        func(1,0,n,"",result);
         return result;
     }
 };
