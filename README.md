@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0542-01-matrix](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0868-binary-gap) |
