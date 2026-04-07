@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0542-01-matrix](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0874-walking-robot-simulation](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1528-shuffle-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0874-walking-robot-simulation](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
