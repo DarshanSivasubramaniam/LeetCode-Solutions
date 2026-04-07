@@ -11,7 +11,7 @@ public:
 
         int a=0,b=0;
         int dir=0;
-        int maxiresult=INT_MIN;
+        int maxiresult=0;
 
         vector<vector<int>>result={{0,1},{1,0},{0,-1},{-1,0}};
 
@@ -38,7 +38,7 @@ public:
                  b=tempb;
               }
 
-              maxiresult=max({maxiresult,a*a+b*b});
+              maxiresult=max(maxiresult,a*a+b*b);
             }
         }
         return maxiresult;
