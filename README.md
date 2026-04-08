@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2582-pass-the-pillow](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/DarshanSivasubramaniam/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
