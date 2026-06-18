@@ -10,14 +10,7 @@ public:
 
             sort(temp.begin(),temp.end());
 
-            if(result.find(temp)!=result.end())
-            {
-                result[temp].push_back(strs[i]);
-            }
-            else
-            {
-                result[temp]={strs[i]};
-            }
+            result[temp].push_back(strs[i]);    
         }
 
         for(auto i:result)
